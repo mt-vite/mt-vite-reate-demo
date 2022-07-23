@@ -1,6 +1,7 @@
 .DS_Store
 *.local
 dist
+dist_electron
 dist-ssr
 node_modules
 .idea/

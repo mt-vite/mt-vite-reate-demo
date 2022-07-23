@@ -43,4 +43,5 @@ export default defineConfig({
 
     Yaml(),
   ],
+  base: "./",
 });
